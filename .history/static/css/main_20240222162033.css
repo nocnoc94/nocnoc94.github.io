@@ -190,8 +190,7 @@ textarea {
 .collab-container {
   display: flex;
   flex-direction: row; /* Aligns items side by side */
-  justify-content: space-around; /* Center items horizontally in the container */
-  align-items: center; /* Center items vertically */
+  justify-content: left; /* Center items horizontally in the container */
   flex-wrap: wrap; /* Allows items to wrap in small screens */
   gap: 200px; /* Adds space between the images */
 }
